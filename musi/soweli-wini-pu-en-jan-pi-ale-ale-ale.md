@@ -10,7 +10,7 @@
 
 ___
 * jan Kitopa Jopin *(Christopher Robin)*
-* pilin pi sin nasa *(surpriziĝas)*
+* pilin pi sin nasa *(being surprised)*
 
 ___
 
@@ -26,10 +26,10 @@ tan ni: mi tu li olin e sina.**
 ## kama lipu
 
 ___
-* waso walo *(cigno)*
-* toki kulupu *(diras unu al la alia)*
+* waso walo *(swan)*
+* toki kulupu *(saying to one another)*
 * soweli pi luka lawa Etuwa *(Edward Bear)*
-* awen jo e ijo → awen e ijo *(plu havi ion, teni ion → restigi ion)*
+* awen jo e ijo → awen e ijo *(to continue to have something, have something → retain something)*
 
 ___
 
@@ -43,11 +43,11 @@ pona. mi pana e sona pi soweli Pu. kama la mi pana e sona pi ale ante.
 ___
 * ma sijelo *(zoo)*
 * mute wan *(kelko)*
-* tawa weka *(for, eksteren)*
-* nanpa mute *(tria)*
-* mute supa *(ŝtuparo)*
-* toki wawa *(krias, vokas)*
-* awen sona *(memoras)*
+* tawa weka *(away, towards outside)*
+* nanpa mute *(third)*
+* mute supa *(staircase/ladder)*
+* toki wawa *(cry out, call out)*
+* awen sona *(remembering)*
 
 ___
 
@@ -60,10 +60,10 @@ jan Kitopa Jopin li toki wawa e "soweli pi luka wawa o!" li tawa lon tenpo sama 
 tenpo ni la nimi pi soweli ni pi luka wawa li Wini. ni li pana e sona ni: ona li toki pona tawa soweli pi luka wawa. taso ni li musi: mi tu li ken ala awen sona e ni: soweli Wini li kama jo e nimi ona tan soweli Pu anu soweli Pu li kama jo e nimi ona tan soweli Wini. tenpo pini wan la mi tu li sona. taso mi tu li pini sona...
 
 ___
-* soweli lili pi palisa monsi sike → soweli lili *(porketo)*
-* toki kepeken uta lili *(kriĉas)*
-* pilin sona *(certas)*
-* poki pi telo sitelen *(inkujo)*
+* soweli lili pi palisa monsi sike → soweli lili *(little pig)*
+* toki kepeken uta lili *(screeching)*
+* pilin sona *(to be certain)*
+* poki pi telo sitelen *(ink well)*
 
 ___
 
@@ -82,7 +82,7 @@ tenpo ni la jan ante ale li toki e ni: "seme pi mi mute li lon?" tan ni la ken l
 **ona la mi mute li kama sona e soweli Wini Pu e pipi kon pi ko suwi en toki li kama**
 
 ___
-* pipi kon pi ko suwi *(abelo, miela aer-insekto)*
+* pipi kon pi ko suwi *(bee, honey collecting flying insect)*
 
 ___
 
@@ -130,7 +130,7 @@ tenpo pi mute wan la soweli Wini Pu li kama lon anpa kepeken mute supa li wile m
 ni, mi lukin ni.
 
 ___
-* ma pi kasi suli *(arbaro)*
+* ma pi kasi suli *(forest)*
 
 ___
 
@@ -141,7 +141,7 @@ tenpo wan pini pi weka mute, pini pi tenpo esun pini la soweli Wini Pu li lon ma
 "soweli Wini Pu li pilin sona ala" li toki pi jan Kitopa Jopin.
 
 ___
-* toki kepeken uta suli *(murmuregas)*
+* toki kepeken uta suli *(muttering)*
 
 ___
 
@@ -163,7 +163,7 @@ mi sona e ni: jan li kalama 'SSS' tan ni taso: jan ni li pipi kon pi ko suwi."
 tenpo suli sin la ona li toki insa li toki e ni: "mi sona e ni: jan li pipi kon pi ko suwi tan ni taso: jan ni li pali e ko suwi."
 
 ___
-* tawa kepeken noka en luka *(grimpas)*
+* tawa kepeken noka en luka *(climbing)*
 
 ___
 
@@ -193,8 +193,8 @@ ona li ken noka e palisa kasi ni t-a-s-o, la ...
 KA!
 
 ___
-* lon tenpo pi ijo ni → tenpo ni *(dum ties tempo, kiam → dum tiu tempo, kiam)*
-* kiwen utala tawa *(batas -n)*
+* lon tenpo pi ijo ni → tenpo ni *(during their time, when → that time)*
+* kiwen utala tawa *(hitting X)*
 
 ___
 
@@ -206,16 +206,16 @@ ___
 "o sona e ni: taso mi wile e ni:" li toki ona lon tenpo ni: lawa li kama lon anpa noka. ona li kiwen utala tawa palisa kasi ante lon anpa sin sin. "taso mi wile e ni: — "
 
 ___
-* lon ale poka pi *(preter)*
+* lon ale poka pi *(beyond/past)*
 
 ___
 
 "taso ni li sona: — " li toki ona lon tenpo ni: tenpo pi lili mute la ona li tawa lon ale poka pi palisa kasi mute tu.
 
 ___
-* tawa sike *(turniĝas)*
-* tawa lon kon *(flugas)*
-* palisa utala *(akra pinto)*
+* tawa sike *(turning/rotating)*
+* tawa lon kon *(flying)*
+* palisa utala *(sharp point)*
 
 ___
 
@@ -239,8 +239,8 @@ tomo ona li lon wan ante pi ma pi kasi suli li jo e lupa tomo laso.
 "tenpo suno pona, soweli Wini Pu o" li toki sina.
 
 ___
-* sike kon *(balono)*
-* lon poka sike pi *(ĉirkaŭ)*
+* sike kon *(baloon)*
+* lon poka sike pi *(around)*
 
 ___
 
@@ -259,10 +259,10 @@ soweli Wini Pu li lukin tawa poka sike ona li lukin e ni: jan ala li kute. ona l
 "mi ken" li toki pi soweli Pu.
 
 ___
-* laso kasi *(verda)*
-* soweli pi kute suli *(leporo)*
-* laso sewi *(blua)*
-* lili pi mute ike → lili ike *(tro malgranda)*
+* laso kasi *(green)*
+* soweli pi kute suli *(hare/rabbit)*
+* laso sewi *(blue)*
+* lili pi mute ike → lili ike *(too small)*
 
 ___
 
@@ -273,14 +273,14 @@ ona li awen e sike kon lon ni li tawa weka tan ni: ona li lili ike li ken ala lo
 ni la sina tawa tomo sina e wan pi laso kasi e wan pi laso sewi.
 
 ___
-* pilin lon tenpo suli *(zorgas)*
+* pilin lon tenpo suli *(to worry/care for)*
 ___
 
 "sina wile e ona seme?" li toki sina tawa soweli Pu. ona li lon luka ona e lawa ona li toki insa li pilin lon tenpo suli.
 
 ___
-* kama lukin *(trovas, rimarkas)*
-* ken *(probablo)*
+* kama lukin *(finding, noticing)*
+* ken *(probability)*
 ___
 
 "ni li lon:" li toki ona.
@@ -294,7 +294,7 @@ mi wile sona e ni: seme li ken suli?"
 "seme anu ona li kama lukin e sina lon anpa pi sike kon?" li toki sina.
 
 ___
-* kon telo lon sewi *(nubo)*
+* kon telo lon sewi *(cloud)*
 
 ___
 
@@ -304,16 +304,16 @@ tenpo lili la ona li toki insa li toki e ni: "mi o lukin+sama kon-telo-pimeja-li
 kepeken ni la ona mute li ken ala kama sona."
 
 ___
-* kama *(decidiĝas)*
+* kama *(to make up one's mind)*
 ___
 
 ni la sina o jo e sike kon pi laso sewi" li toki sina. ni li kama.
 
 ___
-* ken pi ike kama *(danĝero, ebleco de venonta malbono)*
-* pini kama e ijo *(ĝis io)*
-* lon supa pi *(ĉe la supraĵo de, sur)*
-* lon pini pi ijo ni → lon pini ni *(ĉe la fino de tio, post kiam → ĉe tiu fino, post kiam)*
+* ken pi ike kama *(danger, possibility of upcoming evil/badness)*
+* pini kama e ijo *(until something)*
+* lon supa pi *(on the surface of, ontop of)*
+* lon pini pi ijo ni → lon pini ni *(at the end of that, after (in the sense of time) → ĉe tiu fino, post kiam)*
 * pini awen luka e ijo → pini awen e ijo *(ne plu tuŝadas ion → ne plu restigas ion)*
 * lon weka pi *(disde)*
 
